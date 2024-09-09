@@ -1,6 +1,6 @@
 # Nuxt + Bun + WebSockets issue
 ## Issue description
-See: https://github.com/unjs/nitro/issues/...............................
+See: https://github.com/unjs/nitro/issues/2721
 
 ## Steps to reproduce
 1. Install using `bun i` with bun version 1.1.27.
